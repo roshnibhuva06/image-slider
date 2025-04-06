@@ -14,5 +14,5 @@ Feature	Description
     Swipe gestures on mobile and arrow key navigation for desktops.
 
 
-
+https://github.com/user-attachments/assets/652e4df1-63f5-45e6-b3bf-f8c34d8edd47
 
